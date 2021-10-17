@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Salman Ahmad Khan</h1>
+<h1 align="center">Hey there, I'm Salman</h1>
 <h3 align="center">A passionate developer/programmer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salman-ahmad-khan&label=Profile%20views&color=0e75b6&style=flat" alt="salman-ahmad-khan" /> </p>
