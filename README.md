@@ -24,6 +24,11 @@
 
 <img src="https://img.shields.io/badge/C++-brightgreen.svg" />  <img src="https://img.shields.io/badge/C-brightgreen.svg" />  <img src="https://img.shields.io/badge/git-brightgreen.svg" />   <img src="https://img.shields.io/badge/GitHub-brightgreen.svg" />  <img src="https://img.shields.io/badge/Python-brightgreen.svg" />   <img src="https://img.shields.io/badge/CSS-brightgreen.svg" />  <img src="https://img.shields.io/badge/HTML-brightgreen.svg" />  <img src="https://img.shields.io/badge/More-brightgreen.svg" /> 
 
+- [x] Fix Bugs 🐛 
+- [x] Adding NEW Features
+- [ ] Ultimate README.md
+- [x] Updated README.md
+- [ ] New Cool Features 😎 
 
 
 
@@ -31,13 +36,17 @@
 
 
 
-<h1>Blog</h1>
+
+<h1><img src="https://img.shields.io/badge/Blog-brightgreen.svg" /></h1>
 
 
-[BLOG](https://salman-ahmad-khan.github.io/Blog-01/)  :octocat: <br>
+
+
+[<img src="https://img.shields.io/badge/view-brightgreen.svg" />](https://salman-ahmad-khan.github.io/Blog-01/)  :octocat: <br>
 [Introduction to Git and GitHub](https://salman-ahmad-khan.github.io/Blog-01/topic1.html) :octocat: <br>
 [How to Rename a Local and Remote Branch in Git](https://salman-ahmad-khan.github.io/Blog-01/topic2.html) :octocat: <br>
 [10 Frameworks Software Developers can learn in 2022](https://salman-ahmad-khan.github.io/Blog-01/topic3.html) :octocat: <br>
+---
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salman-ahmad-khan&show_icons=true&locale=en&layout=compact" alt="salman-ahmad-khan" /></p>
