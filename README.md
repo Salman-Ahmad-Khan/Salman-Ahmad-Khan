@@ -76,8 +76,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salman-ahmad-khan&show_icons=true&locale=en" alt="salman-ahmad-khan" /></p> 
 <!-- [![Salman's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Salman-Ahmad-Khan&theme=blue-green)](https://github.com/Salman-Ahmad-Khan/github-readme-stats) -->
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salman-ahmad-khan&" alt="salman-ahmad-khan" /></p>  
+ <hr>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salman-ahmad-khan&" alt="salman-ahmad-khan" /></p>  <hr>
 
 
 
