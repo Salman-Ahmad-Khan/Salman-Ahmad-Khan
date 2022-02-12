@@ -1,4 +1,4 @@
-<h1 align="center"> <img align="center" src="https://img.shields.io/badge/Salman-brightgreen.svg" /></h1>
+<h1 align="center"> <img align="center" src="https://img.shields.io/badge/Hi there,I'm Salman-brightgreen.svg" /></h1>
 
 
 <h3 align="center">I'm a Student,passionate about Computer Science,Tech and Programming.
