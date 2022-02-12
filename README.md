@@ -30,9 +30,9 @@
 
 
 <img src="https://img.shields.io/badge/Blog-yellowgreen.svg" /> [<img src="https://img.shields.io/badge/view-yellowgreen.svg" />](https://salman-ahmad-khan.github.io/Blog-01/)  :octocat:  <br>
-[Introduction to Git and GitHub](https://salman-ahmad-khan.github.io/Blog-01/topic1.html)  <br>
-[How to Rename a Local and Remote Branch in Git](https://salman-ahmad-khan.github.io/Blog-01/topic2.html)  <br>
-[10 Frameworks Software Developers can learn in 2022](https://salman-ahmad-khan.github.io/Blog-01/topic3.html) <br> <br> <hr>
+- [Introduction to Git and GitHub](https://salman-ahmad-khan.github.io/Blog-01/topic1.html)  <br>
+- [How to Rename a Local and Remote Branch in Git](https://salman-ahmad-khan.github.io/Blog-01/topic2.html)  <br>
+- [10 Frameworks Software Developers can learn in 2022](https://salman-ahmad-khan.github.io/Blog-01/topic3.html) <br> <br> <hr>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salman-ahmad-khan" alt="salman-ahmad-khan" /></a> </p>
 
