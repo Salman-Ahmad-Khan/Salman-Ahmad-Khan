@@ -2,8 +2,8 @@
  <h3> I'm a Student,passionate about Computer Science,Tech and Programming.</h3>
  
  
- <img src="https://komarev.com/ghpvc/?username=salman-ahmad-khan&label=Profile%20Views&color=0e75b6&style=flat" alt="salman-ahmad-khan" /> <img  src="https://img.shields.io/badge/Pull%20Requests-welcome-brightgreen" />  [![Feedback](https://img.shields.io/badge/Feedback-ff69b4.svg)](https://salman-ahmad-khan.github.io/Blog-01/contact.html) 
- <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Salman-Ahmad-Khan?style=social"> 
+ <img src="https://komarev.com/ghpvc/?username=salman-ahmad-khan&label=Profile%20Views&color=0e75b6&style=flat" alt="salman-ahmad-khan" /> <img  src="https://img.shields.io/badge/Pull%20Requests-welcome-brightgreen" />  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Salman-Ahmad-Khan?style=social"> <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/w/Salman-Ahmad-Khan/Salman-Ahmad-Khan"> [![Feedback](https://img.shields.io/badge/Feedback-ff69b4.svg)](https://salman-ahmad-khan.github.io/Blog-01/contact.html) 
+ 
 
 <!-- [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://salman-ahmad-khan.github.io/Blog-01/topic1.html) -->
 <!-- [![Pull_Requests Welcome](https://img.shields.io/badge/Pull_Requests-welcome-red.svg)](https://github.com/Salman-Ahmad-Khan.html#your-first-pull-request) <br> -->
