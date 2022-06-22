@@ -21,11 +21,7 @@
 
 <!-- [![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/) -->
 <!--  <img src="https://img.shields.io/badge/git-red.svg" />  -->
-<!--  <img src="https://img.shields.io/badge/GitHub-lightgrey.svg" />  -->
-<hr> 
-
-
-
+<!--  <img src="https://img.shields.io/badge/GitHub-lightgrey.svg" />  --> <hr>
 [![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://vscode.dev/) <hr>
 
 
