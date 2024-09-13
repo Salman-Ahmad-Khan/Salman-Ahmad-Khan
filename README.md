@@ -1,4 +1,5 @@
  <p align="center" > <img  src="https://img.shields.io/badge/Salman Ahmad Khan-blueviolet.svg" /> :octocat:</p>
+ 
  <h3>
 In the realm of full stack stuff, my interest blooms,
 While problem-solving passion ever looms.</h3>
