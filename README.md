@@ -5,8 +5,12 @@ In the realm of full stack stuff, my interest blooms,
 While problem-solving passion ever looms.</h3>
 
 
-Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in agile software development, team work and Clean Code. Always questioning the status quo and wanting to improve. Able and willing to think outside the box.
+Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism.
 
+Believer in agile software development, team work and Clean Code.
+
+Always questioning the status quo and wanting to improve. Able and willing to think outside the box.
+<hr>
  
  
  <img src="https://komarev.com/ghpvc/?username=salman-ahmad-khan&label=Profile%20Views&color=0e75b6&style=flat" alt="salman-ahmad-khan" /> <img  src="https://img.shields.io/badge/Pull%20Requests-welcome-brightgreen" />  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Salman-Ahmad-Khan?style=social"> 
