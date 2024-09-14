@@ -1,16 +1,14 @@
 <p align="center" > <img  src="https://cdn.hashnode.com/res/hashnode/image/upload/v1688546624907/Qs-UIWi4M.png" /> </p>
 <p align="center" > <img  src="https://img.shields.io/badge/Web Developer-blueviolet.svg" /> :octocat:</p>
  
- <h3>
-In the realm of full stack stuff, my interest blooms,
-While problem-solving passion ever looms.</h3>
-
-
-Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism.
+### In the realm of full stack stuff, my interest blooms, While problem-solving passion ever looms. 
+<hr>
 
 Believer in agile software development, team work and Clean Code.
 
 Always questioning the status quo and wanting to improve. Able and willing to think outside the box.
+
+Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism.
 <hr>
  
  
