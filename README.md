@@ -1,4 +1,5 @@
- <p align="center" > <img  src="https://img.shields.io/badge/Web Developer-blueviolet.svg" /> :octocat:</p>
+<p align="center" > <img  src="https://cdn.hashnode.com/res/hashnode/image/upload/v1688546624907/Qs-UIWi4M.png" /> </p>
+<p align="center" > <img  src="https://img.shields.io/badge/Web Developer-blueviolet.svg" /> :octocat:</p>
  
  <h3>
 In the realm of full stack stuff, my interest blooms,
