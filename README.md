@@ -19,7 +19,7 @@ Fast learner and eager to explore new technologies. Able to switch between perfe
 
 
 - [Blog](https://salmon.hashnode.dev/)  <br>
-- [Portfolio](https://selmon.netlify.app/)  <br>
+- [Portfolio](https://celman.netlify.app/)  <br>
   
 
 
