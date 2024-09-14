@@ -2,7 +2,7 @@
 <p align="center" > <img  src="https://cdn.hashnode.com/res/hashnode/image/upload/v1688546624907/Qs-UIWi4M.png" /> </p>
 <p align="center" > <img  src="https://img.shields.io/badge/Web Developer-blueviolet.svg" /> :octocat:</p>
  
-### ```In the realm of full stack stuff, my interest blooms, While problem-solving passion ever looms.``` 
+### In the realm of full stack stuff, my interest blooms, While problem-solving passion ever looms.
 <hr>
 
 Believer in agile software development, team work and Clean Code.
