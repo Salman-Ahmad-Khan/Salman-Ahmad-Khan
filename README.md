@@ -22,8 +22,8 @@ Fast learner and eager to explore new technologies. Able to switch between perfe
 <hr>
 
 ### Blog and Portfolio 
-- [x]  [Blog](https://salmon.hashnode.dev/)
-- [x]  [Portfolio](https://celman.netlify.app/)
+- [x]  [Blog](https://salmon.hashnode.dev)
+- [x]  [Portfolio](https://celman.vercel.app)
 </samp>
 
 
